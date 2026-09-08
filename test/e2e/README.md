@@ -464,3 +464,5 @@ npx http-server out -p 3001
 cd apps/public-viewer
 npx http-server out-subdir -p 3002
 ```
+
+<!-- e2e baseline control run (このブランチは検証用・upstream へは出さない) -->
